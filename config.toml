@@ -3,6 +3,8 @@ baseURL = "https://examplesite.com"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
+publishDir = "docs"
+
 # The site's parameters
 [params]
   home = "Home"
