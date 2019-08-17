@@ -11,30 +11,30 @@ publishDir = "docs"
 
   [menu]
 
-    [[menu.header]]
-      weight = 2
-      name = "Work"
-      url = "work"
-    [[menu.header]]
-      weight = 3
-      name = "Blog"
-      url = "blog"
-    [[menu.header]]
-      weight = 4
-      name = "Service"
-      url = "service"
-    [[menu.header]]
-      weight = 5
-      name = "Contact"
-      url = "contact"
+    # [[menu.header]]
+    #   weight = 2
+    #   name = "Work"
+    #   url = "work"
+    # [[menu.header]]
+    #   weight = 3
+    #   name = "Blog"
+    #   url = "blog"
+    # [[menu.header]]
+    #   weight = 4
+    #   name = "Service"
+    #   url = "service"
+    # [[menu.header]]
+    #   weight = 5
+    #   name = "Contact"
+    #   url = "contact"
 
     [[menu.footer]]
       weight = 1
-      name = "About us"
+      name = "About"
       url = "#"
     [[menu.footer]]
       weight = 2
-      name = "Contact us"
+      name = "Contact"
       url = "contact"
     [[menu.footer]]
       weight = 3
@@ -42,8 +42,8 @@ publishDir = "docs"
       url = "work"
     [[menu.footer]]
       weight = 4
-      name = "Blog"
-      url = "blog"
+      name = "Docs"
+      url = "docs"
     [[menu.footer]]
       weight = 5
       name = "Terms"
@@ -54,7 +54,7 @@ publishDir = "docs"
     title = "The GUAQ Initiative"
     subtitle = "Our mission is to provide communities and individuals with the tools and knowledge needed to make an impact on individual air quality issues."
     bgImage = "img/earth.png" # A UN type or other non-NA centric map
-    btnText = "Discover Our Projects"
+    btnText = "About The Project"
     url = "#"
 
   [params.wrapper]
@@ -80,18 +80,18 @@ publishDir = "docs"
     title = "An accessible, inexpensive monitor"
     bgImage = "img/monitor.jpg"
     content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
-    [params.feature.button]
-      caption = "View Works"
-      url = "#"
+    # [params.feature.button]
+    #   caption = "View Works"
+    #   url = "#"
 
   [params.call]
     enable = true
     bgImage = "img/call-to-action-bg.jpg"
     title = "Data from everywhere, data for everyone"
     paragraph = "The majority of countries have no publically available air quality data. Our goal is to fix that.\nHelp us learn about your situation and how we can reach your community."
-    [params.call.button]
-      url = "#"
-      text = "tell us your story"
+    # [params.call.button]
+    #   url = "#"
+    #   text = "tell us your story"
 
   [params.contact]
     enable = true
