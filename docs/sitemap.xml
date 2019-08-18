@@ -3,15 +3,92 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://guaqteam.github.io/website/blog/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://guaqteam.github.io/website/categories/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://guaqteam.github.io/website/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guaqteam.github.io/website/tags/ipsum/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guaqteam.github.io/website/categories/lorem/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guaqteam.github.io/website/blog/migrate-from-jekyll/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://guaqteam.github.io/website/tags/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guaqteam.github.io/website/tags/hugo/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guaqteam.github.io/website/blog/hugo-is-for-lovers/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guaqteam.github.io/website/categories/pseudo/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guaqteam.github.io/website/blog/creating-a-new-theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guaqteam.github.io/website/categories/starting/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guaqteam.github.io/website/tags/theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://guaqteam.github.io/website/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://guaqteam.github.io/website/tags/golang/</loc>
+  </url>
+  
+  <url>
+    <loc>https://guaqteam.github.io/website/blog/installation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://guaqteam.github.io/website/tags/programming/</loc>
+  </url>
+  
+  <url>
+    <loc>https://guaqteam.github.io/website/service/</loc>
+  </url>
+  
+  <url>
+    <loc>https://guaqteam.github.io/website/work/</loc>
   </url>
   
 </urlset>

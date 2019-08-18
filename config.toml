@@ -53,14 +53,14 @@ publishDir = "docs"
     enable = true
     title = "The GUAQ Initiative"
     subtitle = "Our mission is to provide communities and individuals with the tools and knowledge needed to make an impact on individual air quality issues."
-    bgImage = "img/earth.png" # A UN type or other non-NA centric map
+    bgImage = "img/earth.jpg" # A UN type or other non-NA centric map
     btnText = "About The Project"
     url = "#"
 
   [params.wrapper]
     enable = true
     image = "img/full-logo.png" # Change to a picture of the core team. team.png
-    title = "Our team"
+    title = "The team"
     italic = "Student run, student led"
     paragraph = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id"
 
